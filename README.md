@@ -18,6 +18,7 @@ The src folder contains four modules:
 Data Format in the csv
 
 Each csv contains daily prices for all the companies for that day.
+
 Code | Name | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
 To run the scraper
