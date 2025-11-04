@@ -1,0 +1,14 @@
+selenium
+psycopg2
+beautifulsoup4
+playwright
+pandas
+requests
+sqlalchemy
+petl
+matplotlib
+seaborn
+plotly
+ipykernel
+nbformat
+kaleido
