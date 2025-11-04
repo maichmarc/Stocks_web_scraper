@@ -1,0 +1,129 @@
+Code,Name,Day_low,Day_high,Price,Previous_price,Volume
+EGAD,"Eaagads Ltd
+",25.00,25.25,25.25,25.00,"15,000"
+KUKZ,"Kakuzi Plc
+",329.00,329.00,329.00,329.00,-
+KAPC,"Kapchorua Tea Kenya Plc
+",66.00,66.00,66.00,67.50,300
+LIMT,"Limuru Tea Plc
+",500.00,500.00,500.00,500.00,-
+SASN,"Sasini Plc
+",25.75,27.00,27.00,25.25,"10,500"
+WTK,"Williamson Tea Kenya Plc
+",158.00,158.00,158.00,158.00,-
+CGEN,"Car and General (K) Ltd
+",21.00,21.00,21.00,21.00,-
+ABSA,"ABSA Bank Kenya Plc
+",9.50,9.80,9.60,9.60,"1,361,000"
+COOP,"Co-operative Bank of Kenya Ltd
+",16.10,16.90,16.35,16.20,"1,487,000"
+DTK,"Diamond Trust Bank Kenya Ltd
+",195.00,195.00,195.00,192.00,"8,500"
+EQTY,"Equity Group Holdings Plc
+",39.75,40.50,40.25,40.25,"1,709,300"
+HFCK,"HF Group Ltd
+",10.05,10.85,10.20,10.35,"26,700"
+IMH,"I & M Holdings Plc
+",120.00,120.00,120.00,120.00,"5,400"
+KCB,"KCB Group Plc
+",42.50,43.00,42.75,42.50,"41,800"
+NBK,"National Bank of Kenya Ltd
+",9.90,10.00,9.95,10.00,"2,200"
+NCBA,"NCBA Group Plc
+",35.50,36.75,36.50,34.25,"39,800"
+SBIC,"Stanbic Holdings Plc
+",80.00,80.00,80.00,80.00,700
+SCBK,"Standard Chartered Bank Kenya Ltd
+",208.00,210.00,210.00,210.00,"2,100"
+DCON,"Deacons (East Africa) Plc
+",3.20,3.45,3.25,3.45,"59,400"
+EVRD,"Eveready East Africa Ltd
+",2.40,2.60,2.45,2.45,"3,300"
+XPRS,"Express Kenya Plc
+",3.75,3.75,3.75,3.75,-
+KQ,"Kenya Airways Plc
+",16.00,17.00,16.30,16.75,"44,700"
+LKL,"Longhorn Publishers Plc
+",5.40,5.90,5.75,5.50,"70,600"
+NBV,"Nairobi Business Ventures Ltd
+",3.15,3.30,3.25,3.25,"8,400"
+NMG,"Nation Media Group Plc
+",116.00,117.00,117.00,116.00,"4,800"
+SMER,"Sameer Africa Plc
+",2.50,2.75,2.70,2.75,"1,300"
+SGL,"Standard Group Plc
+",33.50,33.50,33.50,37.00,200
+TPSE,"TPS Eastern Africa (Serena) Ltd
+",32.00,32.00,32.00,33.00,600
+UCHM,"Uchumi Supermarket Plc
+",4.40,4.60,4.50,4.55,"49,800"
+SCAN,"WPP ScanGroup Plc
+",18.50,18.60,18.60,18.60,"6,800"
+ARM,"ARM Cement Plc
+",13.25,13.40,13.30,12.25,"34,600"
+BAMB,"Bamburi Cement Ltd
+",178.00,183.00,179.00,183.00,"247,600"
+CRWN,"Crown Paints Kenya Plc
+",80.00,80.00,80.00,80.00,-
+CABL,"East African Cables Plc
+",5.70,5.85,5.75,5.80,"13,500"
+PORT,"East African Portland Cement Ltd
+",29.00,29.00,29.00,29.00,500
+KENO,"KenolKobil Ltd
+",14.35,14.50,14.50,14.30,"3,044,600"
+KEGN,"Kenya Electricity Generating Company Plc
+",8.00,8.50,8.25,8.50,"107,600"
+KPLC-P4,"KPLC-P4
+",5.00,5.00,5.00,5.00,-
+KPLC-P7,"KPLC-P7
+",6.00,6.00,6.00,6.00,-
+KPLC,"Kenya Power and Lighting Company Plc
+",9.00,9.10,9.05,9.10,"141,500"
+TOTL,"TotalEnergies Marketing Kenya Plc
+",24.00,24.00,24.00,23.75,"7,000"
+UMME,"Umeme Ltd
+",13.40,13.40,13.40,13.40,100
+BRIT,"Britam Holdings Plc
+",13.50,14.00,13.80,13.90,"79,000"
+CIC,"CIC Insurance Group Ltd
+",5.60,6.00,5.70,5.65,"120,100"
+JUB,"Jubilee Holdings Ltd
+",500.00,500.00,500.00,475.00,"3,300"
+KNRE,"Kenya Re-Insurance Corporation Ltd
+",18.95,19.50,19.45,19.05,"1,341,400"
+LBTY,"Liberty Kenya Holdings Ltd
+",13.00,13.25,13.15,12.85,"6,600"
+SLAM,"Sanlam Kenya Plc
+",29.75,29.75,29.75,30.00,-
+CTUM,"Centum Investment Company Plc
+",43.75,44.50,44.25,44.00,"43,700"
+HAFR,"Home Afrika Ltd
+",1.40,1.55,1.50,1.50,"1,167,500"
+KURV,"Kurwitu Ventures Ltd
+","1,500.00","1,500.00","1,500.00","1,500.00",-
+OCH,"Olympia Capital Holdings Ltd
+",3.00,3.15,3.15,3.05,"12,500"
+TCL,"Trans-Century Plc
+",6.10,6.15,6.15,6.15,"4,600"
+NSE,"Nairobi Securities Exchange Plc
+",19.50,20.25,19.85,20.25,"21,700"
+AMAC,"Africa Mega Agricorp Plc
+",97.00,97.00,97.00,97.00,-
+BOC,"BOC Kenya Plc
+",107.00,107.00,107.00,107.00,-
+BAT,"British American Tobacco Kenya Plc
+",761.00,761.00,761.00,760.00,"4,800"
+CARB,"Carbacid Investments Plc
+",12.50,12.60,12.55,12.55,"27,900"
+EABL,"East African Breweries Ltd
+",239.00,240.00,240.00,240.00,"542,800"
+FTGH,"Flame Tree Group Holdings Ltd
+",4.40,4.50,4.45,4.45,"33,300"
+MSC,"Mumias Sugar Company Ltd
+",1.10,1.15,1.15,1.15,"332,700"
+UNGA,"Unga Group Ltd
+",29.00,29.00,29.00,29.00,-
+SCOM,"Safaricom Plc
+",26.75,27.75,27.25,27.00,"8,304,500"
+GLD,"ABSA NewGold ETF
+","1,265.00","1,265.00","1,265.00","1,265.00",-

@@ -1,0 +1,129 @@
+Code,Name,Day_low,Day_high,Price,Previous_price,Volume
+EGAD,"Eaagads Ltd
+",18.50,18.50,18.50,18.50,-
+KUKZ,"Kakuzi Plc
+",265.00,265.00,265.00,265.00,-
+KAPC,"Kapchorua Tea Kenya Plc
+",77.00,77.00,77.00,85.00,100
+LIMT,"Limuru Tea Plc
+",490.00,490.00,490.00,490.00,-
+SASN,"Sasini Plc
+",19.50,20.00,19.65,20.25,"3,600"
+WTK,"Williamson Tea Kenya Plc
+",182.00,182.00,182.00,182.00,100
+CGEN,"Car and General (K) Ltd
+",27.00,27.00,27.00,27.00,-
+ABSA,"ABSA Bank Kenya Plc
+",8.60,8.70,8.65,8.65,"295,400"
+COOP,"Co-operative Bank of Kenya Ltd
+",12.50,13.50,12.60,12.75,"150,100"
+DTK,"Diamond Trust Bank Kenya Ltd
+",130.00,135.00,134.00,137.00,"42,200"
+EQTY,"Equity Group Holdings Plc
+",31.00,31.50,31.25,31.00,"1,942,900"
+HFCK,"HF Group Ltd
+",14.60,15.00,14.90,14.50,"12,600"
+IMH,"I & M Holdings Plc
+",89.00,97.00,93.50,94.00,600
+KCB,"KCB Group Plc
+",28.75,29.50,29.25,29.00,"757,300"
+NBK,"National Bank of Kenya Ltd
+",6.70,6.95,6.80,6.95,"10,100"
+NCBA,"NCBA Group Plc
+",28.25,30.00,29.00,28.50,"118,600"
+SBIC,"Stanbic Holdings Plc
+",68.00,70.00,70.00,70.00,600
+SCBK,"Standard Chartered Bank Kenya Ltd
+",188.00,191.00,190.00,189.00,900
+DCON,"Deacons (East Africa) Plc
+",6.90,6.90,6.90,6.50,100
+EVRD,"Eveready East Africa Ltd
+",2.35,2.35,2.35,2.40,"1,000"
+XPRS,"Express Kenya Plc
+",3.10,3.25,3.20,3.25,500
+KQ,"Kenya Airways Plc
+",7.05,7.55,7.35,7.05,"1,074,200"
+LKL,"Longhorn Publishers Plc
+",4.90,5.00,5.00,5.25,"74,500"
+NBV,"Nairobi Business Ventures Ltd
+",7.50,7.50,7.50,7.40,100
+NMG,"Nation Media Group Plc
+",98.00,100.00,98.50,99.50,"7,200"
+SMER,"Sameer Africa Plc
+",3.00,3.00,3.00,2.95,"1,400"
+SGL,"Standard Group Plc
+",22.50,22.50,22.50,22.50,-
+TPSE,"TPS Eastern Africa (Serena) Ltd
+",17.55,18.00,18.00,18.00,"100,400"
+UCHM,"Uchumi Supermarket Plc
+",3.40,3.50,3.50,3.30,"6,700"
+SCAN,"WPP ScanGroup Plc
+",18.30,18.40,18.40,18.50,"8,400"
+ARM,"ARM Cement Plc
+",26.00,27.50,26.75,25.50,"191,300"
+BAMB,"Bamburi Cement Ltd
+",158.00,160.00,159.00,160.00,"32,800"
+CRWN,"Crown Paints Kenya Plc
+",44.00,44.00,44.00,45.00,200
+CABL,"East African Cables Plc
+",6.10,6.20,6.20,6.20,"29,500"
+PORT,"East African Portland Cement Ltd
+",24.75,24.75,24.75,24.75,-
+KENO,"KenolKobil Ltd
+",12.05,12.20,12.15,12.05,"34,900"
+KEGN,"Kenya Electricity Generating Company Plc
+",5.60,5.85,5.75,5.85,"2,207,500"
+KPLC-P4,"KPLC-P4
+",5.50,5.50,5.50,5.50,-
+KPLC-P7,"KPLC-P7
+",6.00,6.00,6.00,6.00,-
+KPLC,"Kenya Power and Lighting Company Plc
+",8.90,9.05,9.00,9.05,"1,648,200"
+TOTL,"TotalEnergies Marketing Kenya Plc
+",17.75,17.80,17.80,18.00,"1,100"
+UMME,"Umeme Ltd
+",15.75,15.75,15.75,15.75,-
+BRIT,"Britam Holdings Plc
+",10.25,11.30,10.35,10.35,"383,600"
+CIC,"CIC Insurance Group Ltd
+",4.10,4.20,4.15,4.15,"100,400"
+JUB,"Jubilee Holdings Ltd
+",474.00,480.00,477.00,474.00,"25,300"
+KNRE,"Kenya Re-Insurance Corporation Ltd
+",21.50,22.75,22.00,21.50,"133,200"
+LBTY,"Liberty Kenya Holdings Ltd
+",13.80,14.00,14.00,14.30,"12,700"
+SLAM,"Sanlam Kenya Plc
+",33.00,33.00,33.00,33.00,400
+CTUM,"Centum Investment Company Plc
+",41.25,41.50,41.50,41.25,"538,300"
+HAFR,"Home Afrika Ltd
+",1.20,1.30,1.25,1.20,"297,700"
+KURV,"Kurwitu Ventures Ltd
+","1,500.00","1,500.00","1,500.00","1,500.00",-
+OCH,"Olympia Capital Holdings Ltd
+",3.20,3.20,3.20,3.00,100
+TCL,"Trans-Century Plc
+",6.90,7.00,6.95,7.50,"21,500"
+NSE,"Nairobi Securities Exchange Plc
+",15.20,15.45,15.30,15.40,"39,200"
+AMAC,"Africa Mega Agricorp Plc
+",95.00,95.00,95.00,95.00,-
+BOC,"BOC Kenya Plc
+",84.00,84.00,84.00,84.00,-
+BAT,"British American Tobacco Kenya Plc
+",826.00,826.00,826.00,832.00,100
+CARB,"Carbacid Investments Plc
+",15.50,15.85,15.55,15.45,"20,100"
+EABL,"East African Breweries Ltd
+",271.00,275.00,275.00,276.00,"699,000"
+FTGH,"Flame Tree Group Holdings Ltd
+",4.60,5.45,5.05,5.10,"17,900"
+MSC,"Mumias Sugar Company Ltd
+",1.00,1.15,1.10,1.15,"657,000"
+UNGA,"Unga Group Ltd
+",34.25,34.25,34.25,34.50,-
+SCOM,"Safaricom Plc
+",20.50,21.00,21.00,21.25,"16,019,400"
+^N25I,"NSE 25-Share Index
+","3,680.71","3,680.71","3,680.71","3,687.75",-
