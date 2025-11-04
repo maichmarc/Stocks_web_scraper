@@ -38,7 +38,7 @@ It is provided here **strictly for educational and research purposes only**.
 
 All rights to the original data belong to their respective owners.
 If you are a rights holder and have concerns about the use of this data,
-please contact us and we will promptly address the issue.
+please contact me.
 
 This project does not intend any commercial use or redistribution
 of the scraped data.
